@@ -1,0 +1,6 @@
+body {
+    background-image: url("../img/linus.jpg");
+    background-repeat: repeat-y;
+    background-position: center;
+    width: 100%;
+}

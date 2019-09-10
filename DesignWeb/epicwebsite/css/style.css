@@ -1,0 +1,18 @@
+.white{
+    background-color: white;
+}
+
+
+.black{
+    background-color: #000000;
+}
+
+
+
+hr {
+    padding-bottom:50px;
+    padding-top:50px;
+    max-width: 90px;
+    border-width: 5px;
+    border-color: #d65f3e;
+}

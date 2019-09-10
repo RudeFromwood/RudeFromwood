@@ -1,0 +1,25 @@
+h1 { /*h1 = LINUS TECH TIPS title*/
+    color: rgb(255, 250, 255);
+    font-family:Arial,serif;
+    font-weight:bold;
+    font-size:64px;
+    margin-top:320px;
+    margin-bottom:60px;
+}
+
+h2 { /*h2 = Subtitle for LINUS TECH TIPS title*/
+    color: rgb(255, 250, 255);
+    font-family:Arial,serif;
+    font-size:50px;
+    margin-top:60px;
+    margin-bottom 320px;
+}
+
+h3 { /*h3 = LINUS TECH TIPS text*/
+    color: rgb(0, 0, 0);
+    font-family:Arial,serif;
+    font-weight:bold;
+    font-size:64px;
+    margin-top:320px;
+    margin-bottom:80px;
+}
