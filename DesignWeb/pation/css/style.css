@@ -1,0 +1,80 @@
+@media (max-width:768px) {
+    img#smol {
+        width:100%
+    }
+}
+
+
+
+@media (max-width:1024px) {
+    img#index1 {
+        display:none;
+    }
+}
+
+@media (min-width:1023px) {
+    img#index2 {
+        display:none;
+    }
+}
+
+
+
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: #000000;
+}
+
+.red{
+    background-color: #b22234;
+}
+
+.blue{
+    background-color: #3c3b6e;
+}
+
+.redjp{
+    background-color: #bc002d;
+}
+
+.mapblue1{
+    background-color: #3395b2;
+}
+
+.yellow{
+    background-color: #f7ec14;
+}
+
+.redchina{
+    background-color: #d62125;
+}
+
+
+
+
+.padlist{
+    padding-left:20px;
+    padding-top:5px;
+}
+
+.titles{
+    padding-top:10px;
+    padding-bottom:2px;
+}
+
+.txt{
+    padding-left:15px;
+    padding-top:5px;
+}
+
+.txt2{
+    padding-top:15px;
+}
+
+.txt3{
+    padding-top:60px;
+}

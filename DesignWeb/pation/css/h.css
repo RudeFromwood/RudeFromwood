@@ -1,0 +1,74 @@
+
+@font-face {
+    font-family: 'lovelive';
+    src: url('../font/lovelive.TTF');
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, serif;
+    font-weight:bold;
+    font-size:1.8rem;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, serif;
+    font-weight:bold;
+    font-size:1.8rem;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, serif;
+    font-size:1.25rem;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, serif;
+    font-size:1.25rem;
+}
+
+
+
+h5 {
+    color: rgb(255, 255, 255);
+    font-family:lovelive;
+    font-weight:bold;
+    font-size:1.8rem;
+}
+
+h6 {
+    color: rgb(0, 0, 0);
+    font-family:lovelive;
+    font-weight:bold;
+    font-size:1.8rem;
+}
+
+h7 {
+    color: rgb(0, 0, 0);
+    font-family:lovelive;
+    font-size:2rem;
+}
+
+h8 {
+    color: rgb(0, 0, 0);
+    font-family:lovelive;
+    font-size:1.25rem;
+}
+
+h9 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, serif;
+    font-weight:bold;
+    font-size:1.4rem;
+}
+
+h10 {
+    color: rgb(57, 57, 57);
+    font-family: Arial, serif;
+    font-weight:bold;
+    font-size:0.6rem;
+}
