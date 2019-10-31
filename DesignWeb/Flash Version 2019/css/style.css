@@ -1,0 +1,14 @@
+html,body { margin:0; height:100%;}
+
+.centralCity{
+    background-image: url("../img/centralCi");
+}
+
+.textFlash{
+    color: #FEDF1A;
+}
+
+.h-10{
+    height: 10%;
+}
+
