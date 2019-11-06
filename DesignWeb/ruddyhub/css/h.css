@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'lovelive';
+    src: url('../font/lovelive.TTF');
+}
+
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family:lovelive;
+    font-weight:bold;
+    font-size:64px;
+}
+
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family:lovelive;
+    font-weight:bold;
+    font-size:35px;
+}
