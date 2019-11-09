@@ -12,10 +12,30 @@ h1{
     font-size:64px;
 }
 
+h2{
+    color: rgb(255, 255, 255);
+    font-family:lovelive;
+    font-weight:bold;
+    font-size:64px;
+}
 
 h4{
     color: rgb(255, 255, 255);
     font-family:lovelive;
     font-weight:bold;
     font-size:35px;
+}
+
+h6{
+    color: rgb(255, 255, 255);
+    font-family:Arial;
+    font-weight:bold;
+    font-size:25px;
+}
+
+h8{
+    color: rgb(255, 255, 255);
+    font-family:Arial;
+    font-weight:bold;
+    font-size:30px;
 }

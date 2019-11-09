@@ -2,8 +2,38 @@ html,body { margin:0; height:100%;}
 
 .keemforest{
     background-image: url("../img/forest.jpg");
-    height: 100%;
+    height:100%;
 }
+
+.gachabg{
+    background-image: url("../img/gacha/1/banner/banner1bg.png");
+    height:100%;
+}
+
+.gachabuttonwhite{
+    background-image: url("../img/gacha/button/buttonwhite.png");
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.gachabuttonpink{
+    background-image: url("../img/gacha/button/buttonpink.png");
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.scoutbutton{
+    background-image: url("../img/gacha/button/buttonpink.png");
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:70px;
+    padding-right:70px;
+}
+
 
 
 
