@@ -1,0 +1,33 @@
+html,body { margin:0; height:100%;}
+
+.bg1{
+    background-image: url("../img/background/blanc.jpg");
+}
+
+.bg2{
+    background-image: url("../img/background/bleu.jpg");
+}
+
+.bg3{
+    background-image: url("../img/background/bleuFonce.jpg");
+}
+
+.bg4{
+    background-image: url("../img/background/gris.jpg");
+}
+
+.bg5{
+    background-image: url("../img/background/noir.jpg");
+}
+
+.bg6{
+    background-image: url("../img/background/rose.jpg");
+}
+
+.bg7{
+    background-image: url("../img/background/rouse.jpg");
+}
+
+.concretebg{
+    background-image: url("../img/concrete.jpg");
+}

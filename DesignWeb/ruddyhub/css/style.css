@@ -1,12 +1,17 @@
 html,body { margin:0; height:100%;}
 
+.ruddyhubbg{
+    background-image: url("../img/bg.png");
+    height:100%;
+}
+
 .keemforest{
     background-image: url("../img/forest.jpg");
     height:100%;
 }
 
-.gachabg{
-    background-image: url("../img/gacha/1/banner/banner1bg.png");
+.gachabg1{
+    background-image: url("../img/gacha/1/banner/ban1bg.png");
     height:100%;
 }
 
