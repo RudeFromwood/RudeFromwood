@@ -32,6 +32,10 @@ $('#enter').click(function(){
 
     text = $('#text1').val();
 
+
+    if(text.length < 3){
+        alert("Le mot doit faire au moins 3 lettres")
+    }
     if(text.length >= 3){
         $("#i1").show();
         $("#i2").show();
@@ -80,6 +84,7 @@ $('#enter').click(function(){
         $("#i10").hide();
         $("#i11").hide();
         $("#i12").hide();
+        alert("votre mot ne peux pas être plus grand que 13")
     }
 
 
