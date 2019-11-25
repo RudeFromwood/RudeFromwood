@@ -32,7 +32,6 @@ $('#enter').click(function(){
 
     text = $('#text1').val();
 
-
     if(text.length >= 3){
         $("#i1").show();
         $("#i2").show();
@@ -68,6 +67,20 @@ $('#enter').click(function(){
     if(text.length >= 12){
         $("#i12").show();
     }
+    if(text.length > 12){
+        $("#i1").hide();
+        $("#i2").hide();
+        $("#i3").hide();
+        $("#i4").hide();
+        $("#i5").hide();
+        $("#i6").hide();
+        $("#i7").hide();
+        $("#i8").hide();
+        $("#i9").hide();
+        $("#i10").hide();
+        $("#i11").hide();
+        $("#i12").hide();
+    }
 
 
     $("#i1").attr("src","img/letters/"+text[0]+"/"+text[0]+"1.jpg");
@@ -84,5 +97,28 @@ $('#enter').click(function(){
     $("#i12").attr("src","img/letters/"+text[11]+"/"+text[11]+"1.jpg");
 
 });
+
+$('#c1').click(function() {
+    $("#c").attr("class","col-12 text-center bg1");
+});
+$('#c2').click(function() {
+    $("#c").attr("class","col-12 text-center bg2");
+});
+$('#c3').click(function() {
+    $("#c").attr("class","col-12 text-center bg3");
+});
+$('#c4').click(function() {
+    $("#c").attr("class","col-12 text-center bg4");
+});
+$('#c5').click(function() {
+    $("#c").attr("class","col-12 text-center bg5");
+});
+$('#c6').click(function() {
+    $("#c").attr("class","col-12 text-center bg6");
+});
+$('#c7').click(function() {
+    $("#c").attr("class","col-12 text-center bg7");
+});
+
 
 text = [0];

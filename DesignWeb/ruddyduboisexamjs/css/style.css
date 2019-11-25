@@ -2,6 +2,7 @@ html,body { margin:0; height:100%;}
 
 .bg1{
     background-image: url("../img/background/blanc.jpg");
+    width:100%;
 }
 
 .bg2{
@@ -25,9 +26,5 @@ html,body { margin:0; height:100%;}
 }
 
 .bg7{
-    background-image: url("../img/background/rouse.jpg");
-}
-
-.concretebg{
-    background-image: url("../img/concrete.jpg");
+    background-image: url("../img/background/rouge.jpg");
 }
