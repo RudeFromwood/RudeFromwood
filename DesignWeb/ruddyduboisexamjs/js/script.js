@@ -122,3 +122,5 @@ $('#c7').click(function() {
 
 
 text = [0];
+
+//bruh
