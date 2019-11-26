@@ -29,9 +29,7 @@ $('#enter').click(function(){
     $("#i11").hide();
     $("#i12").hide();
 
-
-    text = $('#text1').val();
-
+    text = $('#text1').val().toUpperCase();
 
     if(text.length < 3){
         alert("Le mot doit faire au moins 3 lettres")
@@ -87,7 +85,6 @@ $('#enter').click(function(){
         alert("votre mot ne peux pas être plus grand que 13")
     }
 
-
     $("#i1").attr("src","img/letters/"+text[0]+"/"+text[0]+"1.jpg");
     $("#i2").attr("src","img/letters/"+text[1]+"/"+text[1]+"1.jpg");
     $("#i3").attr("src","img/letters/"+text[2]+"/"+text[2]+"1.jpg");
@@ -124,6 +121,8 @@ $('#c6').click(function() {
 $('#c7').click(function() {
     $("#c").attr("class","col-12 text-center bg7");
 });
+
+
 
 
 text = [0];

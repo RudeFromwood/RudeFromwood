@@ -3,11 +3,13 @@ html,body { margin:0; height:100%;}
 .bgl{
     background-image: url("../img/linus.gif");
     height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 .bg1{
     background-image: url("../img/background/blanc.jpg");
-    width:100%;
 }
 
 .bg2{
@@ -32,4 +34,9 @@ html,body { margin:0; height:100%;}
 
 .bg7{
     background-image: url("../img/background/rouge.jpg");
+}
+
+
+.colhov:hover{
+    transform: scale(0.95);
 }
