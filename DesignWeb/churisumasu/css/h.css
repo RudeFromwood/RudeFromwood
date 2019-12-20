@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'lovelive';
+    src: url('../font/lovelive.TTF');
+}
+
+@font-face {
+    font-family: 'snowhalation';
+    src: url('../font/snowhalation.otf');
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family:arial;
+    font-size:1.5625rem;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family:arial;
+    font-size:1.5625rem;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    font-family:arial;
+    font-weight:bold;
+    font-size:2.1875rem;
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family:arial;
+    font-size:2.1875rem;
+}
+
+h5{
+    color: rgb(0, 0, 0);
+    font-family:lovelive;
+    font-size:2.1875rem;
+}
+
+h6{
+    color: rgb(0, 0, 0);
+    font-family:arial;
+    font-size:0.95rem;
+}
+
+h7{
+    color: rgb(255, 255, 255);
+    font-family:arial;
+    font-size:0.95rem;
+}
+
+h8{
+        color: rgb(101, 101, 101);
+    font-family:arial;
+    font-size:0.8925rem;
+}
+
+
+

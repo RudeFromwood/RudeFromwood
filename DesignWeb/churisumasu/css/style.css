@@ -1,0 +1,112 @@
+html,body { margin:0; height:100%;}
+
+.rhubtop{
+    background-color: #1d1d1d;
+}
+
+.rhubbg{
+    background-color: #000000;
+}
+
+.wtop{
+    background-color: #2f2f2f;
+}
+
+.shopbg{
+    background-color: #dedede;
+}
+
+.shopcat{
+    background-color: #bb2124;
+}
+
+.blue{
+    background-color: #0056bb;
+}
+
+.beige{
+    background-color: #bbb8a7;
+}
+
+
+
+.navbg{
+    background-image: url("../img/navbg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg1{
+     background-image: url("../img/bg/bg1.png");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height:100%;
+ }
+
+.bg2{
+    background-image: url("../img/bg/bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+}
+
+.bg3{
+    background-image: url("../img/bg/bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:200%;
+}
+
+.bgvideo{
+    background-image: url("../img/tyler.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+}
+
+.bgbup{
+    background-image: url("../img/bup.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height:500px
+}
+
+.bgl{
+    background-image: url("../img/space.gif");
+    height:120%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+.buttonwhite{
+    background-image: url("../img/gacha/button/buttonwhite.png");
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.buttonpink{
+    background-image: url("../img/gacha/button/buttonpink.png");
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.padshop1{
+    padding-left:10px;
+}
+
+
+
+
+
+
+
